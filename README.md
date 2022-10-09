@@ -1,7 +1,7 @@
 # SSA-School-Security-Assistant
-A Security Assistant created in python for schools to manage the computers security.
+A Security Assistant created in python for schools to manage their computers security.
 # How can I use it?
-This project is an early access project. When the SSA fully developed we going to upload a PyInstaller converted .exe.
+This project is an early access project. When the SSA fully developed we are going to upload a PyInstaller converted .exe.
 SSA is only for windows machines yet! We want to develop for linux too.
 # Is it safe?
 Yes, its safe. We just wanted to make safer the school computers.
